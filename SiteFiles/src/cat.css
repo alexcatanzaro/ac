@@ -1,7 +1,7 @@
 body{
     font-family: 'Rationale', sans-serif;
     font-size: 14px;
-    background: #546e7a;
+    background: #263238;
     top: 0;
     right: 0;
     bottom: 0;
@@ -17,7 +17,7 @@ body{
     left: 0;
     margin: auto;
     position: absolute;
-    font-size: 35px;
+    font-size: 25px;
     flex-direction: column;
     align-items: center;
     align-content: center;
@@ -30,12 +30,11 @@ body{
     left: 0;
     right: 0;
     z-index: 2;
+    text-align: center;
     display: -webkit-flex;
-    display: inline-flex;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-    align-content: center;
     align-items: center;
     color: floralwhite;
   }
@@ -49,7 +48,6 @@ body{
   }
 
   .about{
-    display: -webkit-flex;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -63,6 +61,7 @@ body{
     right: 0;
     left: 50%;
     margin: auto;
+    background: linear-gradient(to bottom right, #263238, #546E7A);
     transition: box-shadow ease-in 100ms;
 
   }
