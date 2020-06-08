@@ -1,95 +1,105 @@
 body{
-    font-family: 'Rationale', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
-    background: #263238;
+    background: whitesmoke;
     overflow: auto;
     margin: 0;
     height: 100vh;
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    flex-wrap: wrap;
-  }
-  div{
-    align-content: center;
-    margin: auto;
-  }
-  .intro{
-    font-size: 40px;
-    flex: 1;
-    height: 100%;
-    background: url("../media/ac1.jpg");
-    background-size: cover;
-    transition: box-shadow ease-out 100ms;
-    align-content: center;
-  }
-  .intro p{
-    margin: 0;
-    text-align: center;
-    padding-top: 45vh;
-    color: floralwhite;
-  }
-  .about{
-    margin: 0;
-    z-index: 1;
-    font-size: 30px;
-    flex: 1;
-    justify-content: center;
-    height: 100%;
-    background: linear-gradient(to bottom right, #263238, #546E7A);
-    transition: box-shadow ease-in 100ms;
-
-  }
-  .about:hover{
-    box-shadow: 0px 25px 25px 0 rgba(0, 0, 0, 0.5);
-  }
-  .about p{
-    margin: 0;
-    z-index: 2;
-    text-align: center;
-    padding-top: 45vh;
-    display: flex;
     flex-direction: column;
   }
-  a{
-    text-decoration: none;
-    color: floralwhite;
-    -webkit-transition: font-size 200ms;
-    -moz-transition: font-size 200ms;
-    transition: font-size 200ms;
-  }
-  a:hover{
-    font-size: 50px;
+
+  h1, h2, h3{
+    font-family: 'PT Serif', serif;
   }
 
-  i{
-    position: relative;
-    align-items: center;
+  h1{
+    font-size: 36px;
   }
+
+  h3{
+    font-size: 24px;
+    font-weight: normal;
+  }
+
+  li{
+    list-style-type: none;
+    padding-top: 10px;
+  }
+  a{
+    display: inline-block;
+  }
+
+  .info-link{
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: bold;  
+  }
+
+  .info-link:hover{
+    text-decoration: underline;
+    color: turquoise;
+  }
+
   .material-icons{
     font-size: 20px !important;
+    position: relative;
+    top: 5px;
   }
 
-@media only screen and (max-width: 768px) {
-    /* For mobile phones: */
-    body {
-        display: block;
+  .intro{
+    padding: 25px;
+    color: whitesmoke;
+    flex: 1;
+    justify-content: center;
+    background-image: url("../media/ac1.jpg");
+    background-position: center;
+  }
+  
+
+  .info-links{
+    margin-top: 25px;
+  }
+
+  .about{
+    flex: 3;
+  }
+
+  .resume-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+  }
+
+  .resume-section{
+    flex: 1;
+    max-width: 750px;
+  }
+
+  .desc-list{
+    padding: 0px 25px;
+  }
+
+  .refs{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+  }
+
+  .references{
+    font-style: italic;
+    padding-bottom: 25px;
+  }
+
+  @media(min-width: 1200px) {
+    .resume-container{
+      margin-right: auto;
+      margin-left: auto;
+      flex-direction: row;
+      
     }
-    .intro{
-      height: 50%;
+
+    .experience-header{
+      flex: 3;
     }
-    .intro p{
-      padding-top: 25vh;
-      font-size: 20px;
-    }
-    .about{
-      height: 50%;
-    }
-    .about p{
-      padding-top: 20vh;
-      font-size: 20px;
-    }
-    .material-icons{
-      font-size: 15px !important;
-    }
-}
+  }

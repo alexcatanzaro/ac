@@ -1,0 +1,42 @@
+Alex Catanzaro									15913 Cadoz Drive
+https://alexcatanzaro.github.io/ac/						Austin, TX, 78728
+alexcatanzaro@gmail.com								(817)300-7014									
+
+SKILLS AND KNOWLEDGE:
+
+? Strong Python abilities, able to construct web-based asynchronous microservices, robust APIs, and comprehensive unit/functional tests. Experience developing with Tornado, requests, asyncio, etc  
+? Ability to construct interactive web pages via HTML, CSS, JavaScript.
+? Intermediate level SQL abilities, able to query, manipulate, and interact with SQL databases.
+? SAP Basis proficiency. Ability to build new SAP systems and manage/support SAP systems.
+? SAP BW proficiency. Analyze BW InfoProviders, edit data extractors and construct BEX reports.
+? SAP EWM proficiency. Knowledge of Inbound and Outbound order processes. 
+? SAP ABAP proficiency, ability to build reports with ALV output, and create Function Modules focusing on defect/problem resolution.
+? Loftware Labeling OMS. Intimate knowledge of SAP-Loftware communications and data. transformations. Ability to create and modify labels and incoming SAP data for output.
+? Network architectural principles, OSI Model, Ethernet, Subnetting, Packet Switching.
+
+EXPERIENCE:
+
+? Software Engineer, Q2ebanking - Premier Services (Austin, TX); February 2019 to Present; Full-stack Web Engineer: Custom backend/frontend microservice development, unit testing, consultative problem solutioning, peer-review, mentorship of junior engineers. Built out internal SSH Tool to increase development cycle time by ~33%. Developed Member Selection SSO service into reusable base package to be sold and delivered to customers. 
+? SAP CCA Developer, General Motors (Austin, TX); June 2014 to February 2019; Basis Administrator/Developer: Systems administration, build new SAP systems, deliver enhancements, and develop solutions for an array of SAP Modules and Technologies (EWM, SPP, CRM, BI/BW, Basis). Responsible for Labeling and Output Management throughout Zaragoza, Spain SAP EWM Global implementation. Identified as Output Management SME  (SAP administration, Loftware Labeling).
+? SAP OpEx Intern, Alcon Laboratories (Ft. Worth, TX); May 2013 to August 2013; Created systems interconnections map for Tibco migration, liaison for BMC Remedy support systems. 
+
+EDUCATION:
+
+? Bachelor of Business Administration (3.5 GPA) Baylor University (Waco, TX) MIS Major (3.9 GPA)
+? Baylor Interdisciplinary Core (BIC Honors Program).  BIC provides an accelerated and global focus on humanities, social sciences, and the physical sciences.
+? GTx Analytics: Essential Tools and Methods MicroMasters Program: Intro to Analytics Modeling, Computing for Data Analytics.
+? Austin Stone Development Program (Austin Stone Institute) 
+
+References Available Upon Request
+
+
+
+
+
+
+
+
+
+
+
+
