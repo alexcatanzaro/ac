@@ -33,6 +33,7 @@ body{
   .info-link{
     font-weight: bold;
     padding-right: 10px;
+    color: steelblue;
   }
 
   .info-link:hover{
