@@ -31,15 +31,12 @@ body{
   }
 
   .info-link{
-    color: whitesmoke;
-    text-decoration: none;
     font-weight: bold;
-    padding-right: 10px;  
+    padding-right: 10px;
   }
 
   .info-link:hover{
     text-decoration: underline;
-    color: turquoise;
   }
 
   .material-icons{
@@ -91,6 +88,13 @@ body{
     font-style: italic;
     padding-bottom: 25px;
   }
+
+  code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+}
 
   @media(min-width: 1200px) {
     .resume-container{
